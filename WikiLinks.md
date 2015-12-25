@@ -1,0 +1,1 @@
+Please refer to http://wiki.openpicus.com/index.php?title=Umbrella_Stand

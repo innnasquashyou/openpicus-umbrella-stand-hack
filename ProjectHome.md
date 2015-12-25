@@ -1,0 +1,1 @@
+Use Flyport Wi-Fi module and Grove NEST to remember user to take the umbrella with rgb lights if weather feeds is rainy
